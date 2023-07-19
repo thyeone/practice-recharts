@@ -1,0 +1,10 @@
+{
+  "txId": "001",
+  "data": {
+    "userId": "001",
+    "membership": {
+      "membershipId": "001",
+      "name": "라이트"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["node_modules/@types", "src/apis/*/*.d.ts", "src/@types/*"],
+    "baseUrl": "src",
+    "paths": {
+      "@components/*": ["components/*"],
+      "@styles/*": ["styles/*"],
+      "@utils/*": ["utils/*"],
+      "@apis/*": ["apis/*"],
+      "@store/*": ["store/*"],
+      "@hooks/*": ["hooks/*"],
+      "@constants/*": ["constants/*"]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "txId": "001",
+  "data": {
+    "userId": "001",
+    "accessToken": "access_token",
+    "refreshToken": "refresh_token"
+  }
+}

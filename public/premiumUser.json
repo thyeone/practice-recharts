@@ -1,0 +1,10 @@
+{
+  "txId": "002",
+  "data": {
+    "userId": "002",
+    "membership": {
+      "membershipId": "002",
+      "name": "프리미엄"
+    }
+  }
+}
